@@ -164,7 +164,7 @@ contract CrowdFunding {
 
 ## The functions are accessed like this : 
 
-```
+```jsx
   const publishCampaign = async (form) => {
     try {
       const data = await createCampaign({
