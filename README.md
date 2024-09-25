@@ -67,8 +67,6 @@ Make sure you have the following installed on your system:
 
 ### Deploying the Smart Contract
 
-1. Write the Solidity contract. Here’s an example:
-
    ```solidity
   // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.9;
